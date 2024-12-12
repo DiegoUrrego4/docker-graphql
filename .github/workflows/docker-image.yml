@@ -33,4 +33,4 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push eneas95/docker-graphql:0.0.1 .
+        docker push eneas95/docker-graphql:0.0.1
